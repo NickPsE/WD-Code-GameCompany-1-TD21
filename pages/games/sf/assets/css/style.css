@@ -1,0 +1,138 @@
+body {
+    padding-top: 60px;
+}
+
+.image-container {
+    position: relative;
+    width: 100%;
+    height: 655px;
+}
+
+.background-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-position: center top;
+}
+
+
+.overlay-image {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -30%);
+    width: 600px;
+    height: auto;
+}
+
+.footer {
+    background-color: #0c4da2;;
+    color: white;
+    padding: 20px 0;
+  }
+
+.footer a {
+    color: #fff;
+    text-decoration: none;
+  }
+
+.footer a:hover {
+    text-decoration: underline;
+  }
+
+.navbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000;
+    padding: 10px 0;
+  }
+
+.custom-navbar {
+    background-color: #0c4da2;
+    font-weight: 600;
+}
+
+.custom-navbar .navbar-brand,
+.custom-navbar .nav-link {
+    color: white;
+}
+
+.custom-navbar .nav-link:hover {
+    color: #ffcb08;
+}
+
+
+.game-marketing {
+    padding: 60px 0;
+    background-color: #1b1a22;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.game-marketing .game-title {
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #ffffff;
+    margin-bottom: 30px;
+}
+
+.game-marketing .game-image {
+    width: 100%;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.game-marketing .game-description {
+    font-size: 1.2rem;
+    color: #ffffff;
+    text-align: left;
+}
+
+.game-marketing .game-description h3 {
+    font-size: 1.8rem;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+.game-marketing .game-description p {
+    margin-bottom: 20px;
+    line-height: 1.6;
+}
+
+.game-marketing .game-description ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.game-marketing .game-description ul li {
+    font-size: 1.1rem;
+    margin-bottom: 10px;
+}
+
+.game-marketing .btn {
+    font-size: 1.2rem;
+    padding: 15px 30px;
+    background-color: #0069d9;
+    color: #ffcb08;
+    border: none;
+    border-radius: 5px;
+    text-transform: uppercase;
+}
+
+.game-marketing .btn:hover {
+    background-color: #0056b3;
+}
+
+@media (max-width: 768px) {
+    .game-marketing .row {
+        flex-direction: column;
+    }
+    .game-marketing .game-description {
+        text-align: center;
+    }
+}

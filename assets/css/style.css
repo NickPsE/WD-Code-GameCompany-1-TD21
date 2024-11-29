@@ -1,0 +1,77 @@
+body {
+    padding-top: 60px;
+}
+
+.hero-section {
+    background: linear-gradient(rgba(105, 105, 105, 0.3), rgba(105, 105, 105, 0.3)), url('https://www.videogameschronicle.com/files/2021/03/capcom-e1616766857826-1024x539.jpg') no-repeat center center;
+    background-size: cover;
+    background-position: top;
+    color: rgb(255, 255, 255);
+    padding: 100px 0;
+    text-align: center;
+    height: 85vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+.hero-section h1 {
+    font-size: 3.5rem;
+    font-weight: bold;
+  }
+
+.hero-content {
+    background-color: rgba(0, 0, 0, 0.4);
+    padding: 20px 40px;
+    width: 100%;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+  }
+
+.feature-section {
+    padding: 60px 0;
+    background-color: #1e1e1e;
+    font-family: Arial, Helvetica, sans-serif, sans-serif;
+    font-size: medium;
+    color: #fff;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+  }
+
+.footer {
+    background-color: #0c4da2;;
+    color: white;
+    padding: 20px 0;
+  }
+
+.footer a {
+    color: #fff;
+    text-decoration: none;
+  }
+
+.footer a:hover {
+    text-decoration: underline;
+  }
+
+.navbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000;
+    padding: 10px 0;
+  }
+
+.custom-navbar {
+    background-color: #0c4da2;
+    font-weight: 600;
+}
+
+.custom-navbar .navbar-brand,
+.custom-navbar .nav-link {
+    color: white;
+}
+
+.custom-navbar .nav-link:hover {
+    color: #ffcb08;
+}

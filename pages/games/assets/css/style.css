@@ -1,0 +1,107 @@
+body {
+    padding-top: 60px;
+}
+
+.games-section {
+    background-color: #282829;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.games-section h2 {
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #ffffff;
+    margin-bottom: 40px;
+    padding: 20px 0;
+}
+
+.games-section p {
+    color: white;
+}
+.games-section .row {
+    margin-bottom: 40px;
+}
+
+.games-section img {
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 100%;
+    height: auto;
+    ;
+}
+
+.games-section .game-description {
+    font-size: 1.1rem;
+    color: #eeeeee;
+    line-height: 1.6;
+    text-align: justify;
+}
+
+.games-section h3 {
+    font-size: 1.8rem;
+    font-weight: 600;
+    color: #ffffff;
+    margin-bottom: 20px;
+}
+
+.games-section .game-description p {
+    font-size: 1rem;
+    color: #ffffff;
+    margin-bottom: 20px;
+}
+
+
+@media (max-width: 768px) {
+    .games-section .row {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .games-section .col-md-6 {
+        margin-bottom: 20px;
+    }
+
+    .games-section img {
+        width: 80%;
+    }
+}
+
+.footer {
+    background-color: #0c4da2;;
+    color: white;
+    padding: 20px 0;
+  }
+
+.footer a {
+    color: #fff;
+    text-decoration: none;
+  }
+
+.footer a:hover {
+    text-decoration: underline;
+  }
+
+.navbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000;
+    padding: 10px 0;
+  }
+
+.custom-navbar {
+    background-color: #0c4da2;
+    font-weight: 600;
+}
+
+.custom-navbar .navbar-brand,
+.custom-navbar .nav-link {
+    color: white;
+}
+
+.custom-navbar .nav-link:hover {
+    color: #ffcb08;
+}
