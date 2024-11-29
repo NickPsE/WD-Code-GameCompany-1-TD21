@@ -3,7 +3,7 @@ body {
 }
 
 .hero-section {
-    background: linear-gradient(rgba(105, 105, 105, 0.3), rgba(105, 105, 105, 0.3)), url('/assets/img/office.png') no-repeat center center;
+    background: linear-gradient(rgba(105, 105, 105, 0.3), rgba(105, 105, 105, 0.3)), url('../../../../assets/img/office.png') no-repeat center center;
     background-size: cover;
     color: rgb(255, 255, 255);
     padding: 100px 0;
