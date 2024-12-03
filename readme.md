@@ -17,7 +17,7 @@
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
 ![](https://visit-counter.vercel.app/counter.png?page=NickPse/WD-Code-GameCompany-1-TD21)
 
-[![wakatime](https://wakatime.com/badge/user/018dd99a-4985-4f98-8216-6ca6fe2ce0f8/project/63501637-9a31-42f0-960d-4d0ab47977f8.svg)](https://wakatime.com/@07ec1187-5430-448b-9cd4-68b011b3a839/projects/bmgtsnvlaz)
+[![wakatime](https://wakatime.com/badge/user/018dd99a-4985-4f98-8216-6ca6fe2ce0f8/project/63501637-9a31-42f0-960d-4d0ab47977f8.svg)](https://wakatime.com/@07ec1187-5430-448b-9cd4-68b011b3a839/projects/bmgtsnvlaz?start=2024-11-27&end=2024-12-03)
 
 ---
 
