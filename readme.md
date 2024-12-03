@@ -4,20 +4,20 @@
 
 <br />
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Finals Coding Project</h3>
+  <h3 align="center">WD-Code-GameCompany-1-TD21</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Web Design based on Capcom Ltd.
+  A website design themed after Capcom and its games, with a landing page, game selection with its own pages, an "About Us" section, and a contact section. Buttons were used to redirect viewers towards the different pages. CSS and Bootstrap were utilized to format each page to a proper website layout. Techniques such as image overlaying and forms were included for a better user experience.
 </div>
 
 <br />
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
+![](https://visit-counter.vercel.app/counter.png?page=NickPse/WD-Code-GameCompany-1-TD21)
 
-[![wakatime](https://wakatime.com/badge/user/018dd99a-4985-4f98-8216-6ca6fe2ce0f8/project/63501637-9a31-42f0-960d-4d0ab47977f8.svg)](https://wakatime.com/badge/user/018dd99a-4985-4f98-8216-6ca6fe2ce0f8/project/63501637-9a31-42f0-960d-4d0ab47977f8)
+[![wakatime](https://wakatime.com/@07ec1187-5430-448b-9cd4-68b011b3a839/projects/bmgtsnvlaz)](https://wakatime.com/badge/user/018dd99a-4985-4f98-8216-6ca6fe2ce0f8/project/63501637-9a31-42f0-960d-4d0ab47977f8)
 
 ---
 
@@ -54,20 +54,24 @@
 
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
-Description of the project in details.
-
-Guiding Question:
 - What is the project
+  - The final project is for the programmer to be able to create a website design based on a video game company using the lessons taught during classes.
 - Whats the purpose
+  - To be able to apply lessons and techniques using HTML, CSS, and Bootstrap and give a practical experience towards the learning programmer.
 - What are key components
+  - Utilization of Bootstrap, CSS layouting, and techniques such as buttons for redirecting to other pages.
 - What technology used and how it is used
+  - HTML was used as the main structure of the code, inserting variables like text and buttons.
+  - CSS was used to add variety to how the website will look, with a color palette and layouting options.
+  - Bootstrap was used to ensure the website was responsive to how the user navigates through the website, such as the navigation bar and the loading of images.
 
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+- Multi-page Website
+- Image overlaying
+- Button usage
+- Form layout
 
 ### Technology
 <!-- TODO: List of Technology Used -->
@@ -114,4 +118,5 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Capcom Singapore | Text used as reference for the About and Contact pages of the webiste design. | [capcom.sg](https://www.capcom.sg) |
+| Capcom Asia | Used as reference for the color scheme of the website design. | [capcom-games.com](https://www.capcom-games.com/en-asia/) |
